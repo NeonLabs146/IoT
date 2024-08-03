@@ -12,12 +12,12 @@
 #define ADXL335_Z A4
 
 // WiFi credentials
-char ssid[] = "NancyNeon_2.4"; 
-char pass[] = "CLB2723C28"; 
+char ssid[] = "ssid here"; 
+char pass[] = "password"; 
 
 // ThingSpeak information
-char* writeAPIKey = "M5XPPOTFAYPF2P6L";
-const long channelID = 2594975; 
+char* writeAPIKey = "your api here";
+const long channelID = id here; 
 
 const unsigned int distanceField = 1;
 const unsigned int temperatureField = 2;
